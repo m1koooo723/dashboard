@@ -4,6 +4,8 @@
 
 ![Preview](assets/screenshot.png)
 
+https://m1koooo723.github.io/dashboard/
+
 ## ✨ Возможности
 
 * ⏰ Часы в реальном времени
